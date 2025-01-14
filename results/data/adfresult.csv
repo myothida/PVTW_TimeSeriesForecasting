@@ -1,0 +1,5 @@
+Name,ADF Statistic,p-value,Critical Value
+daily-fatalities,-10.697925,0.0,-2.861825
+daily-event,-4.648522,0.000105,-2.861825
+monthly-fatalities,-2.171559,0.216729,-2.870392
+monthly-event,-0.29646,0.926004,-2.870615

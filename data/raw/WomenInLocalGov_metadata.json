@@ -1,0 +1,35 @@
+{
+  "chart": {
+    "title": "Share of women in local government",
+    "subtitle": "Local governments, such as councils or assemblies, often have decision-making power over local public affairs. Only elected seats are considered.",
+    "citation": "Inter-Parliamentary Union",
+    "originalChartUrl": "https://ourworldindata.org/grapher/share-of-women-in-local-government?v=1&csvType=full&useColumnShortNames=false",
+    "selection": [
+      "Australia",
+      "Bolivia",
+      "Botswana",
+      "China",
+      "World"
+    ]
+  },
+  "columns": {
+    "5.5.1 - Proportion of elected seats held by women in deliberative bodies of local government (%) - SG_GEN_LOCGELS": {
+      "titleShort": "5.5.1 - Proportion of elected seats held by women in deliberative bodies of local government (%) - SG_GEN_LOCGELS",
+      "titleLong": "5.5.1 - Proportion of elected seats held by women in deliberative bodies of local government (%) - SG_GEN_LOCGELS",
+      "descriptionShort": "Proportion of elected seats held by women in deliberative bodies of local government (%)",
+      "descriptionKey": [],
+      "shortUnit": "%",
+      "unit": "%",
+      "timespan": "2007-2023",
+      "type": "Numeric",
+      "owidVariableId": 996777,
+      "shortName": "_5_5_1__sg_gen_locgels",
+      "lastUpdated": "2024-08-27",
+      "nextUpdate": "2026-08-27",
+      "citationShort": "Inter-Parliamentary Union – processed by Our World in Data",
+      "citationLong": "Inter-Parliamentary Union – processed by Our World in Data. “5.5.1 - Proportion of elected seats held by women in deliberative bodies of local government (%) - SG_GEN_LOCGELS” [dataset]. Inter-Parliamentary Union, “Data from multiple sources” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/996777.metadata.json"
+    }
+  },
+  "dateDownloaded": "2024-12-12"
+}
