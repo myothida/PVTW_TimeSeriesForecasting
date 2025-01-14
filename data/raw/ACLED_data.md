@@ -1,6 +1,6 @@
 ### Dataset Description: Armed Conflict Location and Event Data Project (ACLED)
 
-The dataset utilized in this research was sourced from the **Armed Conflict Location and Event Data Project (ACLED)** \cite{ACLED} and downloaded on **December 23, 2024**. Spanning the period from **January 6, 1997**, to **November 29, 2024**, it covers records from **194 countries**.
+The dataset utilized in this research was sourced from the **Armed Conflict Location and Event Data Project (ACLED)**  and downloaded on **December 23, 2024**. Spanning the period from **January 6, 1997**, to **November 29, 2024**, it covers records from **194 countries**.
 
 #### Focus on Political Violence Targeting Women (PVTW)
 The **Political Violence Targeting Women (PVTW)** dataset specifically highlights incidents where women are deliberately targeted. These records capture cases where women are either the primary victims or constitute the majority of victims, often within a gendered context. 
@@ -29,4 +29,7 @@ This dataset facilitates an in-depth analysis of political violence targeting wo
 
 
 
-    
+#### Declaration and Privacy
+The data used in this project is sourced from the **Armed Conflict Location and Event Data Project (ACLED)**. All users of this dataset must adhere to ACLED’s **Terms of Use** and **Privacy Policy**. Redistribution, modification, or commercial use of this dataset without proper permission from ACLED is strictly prohibited.
+
+For more information about ACLED's data usage policies, please visit their official website: [ACLED Data Terms and Conditions](https://acleddata.com).
