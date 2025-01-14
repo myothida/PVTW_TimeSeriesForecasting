@@ -70,3 +70,8 @@ To set up and run this project, follow the steps below:
 
 ### Acknowledgments
 This research utilizes the ACLED dataset, downloaded on December 23, 2024. The project aims to advance the understanding of gender-targeted political violence using machine learning methods.
+
+#### Declaration and Privacy
+The data used in this project is sourced from the **Armed Conflict Location and Event Data Project (ACLED)**. All users of this dataset must adhere to ACLED’s **Terms of Use** and **Privacy Policy**. Redistribution, modification, or commercial use of this dataset without proper permission from ACLED is strictly prohibited.
+
+For more information about ACLED's data usage policies, please visit their official website: [ACLED Data Terms and Conditions](https://acleddata.com).
